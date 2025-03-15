@@ -37,7 +37,7 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/akanksha-lad-81b7ab32a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akanksha-lad-81b7ab32a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akanksha-lad-81b7ab32a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akanksha-lad-81b7ab32a" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ladakanksha0712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ladakanksha0712" height="70" width="50" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="40" width="40"  /></a>
 
@@ -49,7 +49,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ladakanksha&show_icons=true&locale=en&layout=compact" alt="ladakanksha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ladakanksha&show_icons=true&locale=en" alt="ladakanksha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ladakanksha&" alt="ladakanksha" /></p>
-
-
