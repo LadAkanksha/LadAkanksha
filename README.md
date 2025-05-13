@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/akanksha-lad-81b7ab32a/" target="blank">
+  <a href="www.linkedin.com/in/ladakanksha/" target="blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"> 
@@ -37,7 +37,7 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/akanksha-lad-81b7ab32a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akanksha-lad-81b7ab32a" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ladakanksha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akanksha-lad-81b7ab32a" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ladakanksha0712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ladakanksha0712" height="70" width="50" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="40" width="40"  /></a>
 
